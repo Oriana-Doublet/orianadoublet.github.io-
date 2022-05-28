@@ -1,0 +1,101 @@
+.about{
+    background-image:url("../Images/background.png");
+    background-blend-mode: saturation;
+    background-size:cover;
+    height: 650px;
+    padding-top: 50px;
+    
+
+}
+.profileIcon{
+    background-color: rgb(164, 183, 247);
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: black;
+}
+
+#profileIcons li{
+    display: inline-block;
+    list-style: none;
+}
+.artistImg{
+    width: 75%;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footerIcons li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 0.5cm;
+}
+
+.topcolour {
+    background-color: rgb(164, 183, 247);
+}
+
+.links{
+    color:black;
+    text-decoration: none;
+}
+
+#footer ul{
+    list-style: none;
+}
+.columns{
+   margin-left: 4cm;
+}
+.contactTitle{
+    margin-left: 0.5cm;
+    color: rgb(164, 183, 247); 
+}
+.inputLastName{
+    margin-right:0.5cm;
+}
+
+.inputFirstName{
+    margin-left: 12cm;
+    margin-top: 1cm;
+}
+
+.inputEmail4{
+    margin-right: 0.5cm;
+}
+.buttons{
+    background-color: rgb(164, 183, 247); 
+}
+.aboutText{
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-bottom: 3cm;
+}
+.aboutTitle{
+    margin-top: 2cm;
+}
+.footer{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+}
+
+.artworks2ndColumn{
+    margin-left: 0.5cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    
+}
+.artworks1stColumn{
+    margin-left: 2.5cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+.drawings{
+    width: 330px;
+    height: 312px;
+}
